@@ -28,7 +28,9 @@ Here is the step-by-step instructions to install Python IN WINDOWS, configure an
     3️⃣ Type your code --> print("Hello GitHub").
     4️⃣ Save the file on your desired location.
     5️⃣Click on the Play button ▶️ in the top-right corner of VS Code or alternatively use shortcut **Ctrl + F5** to run program without debugging.
-    If you see the message printed in your console, your system  is ready for coding!
+
+    
+    ✅If you see the message printed in your console, your system  is ready for coding!✅
     
  
   
